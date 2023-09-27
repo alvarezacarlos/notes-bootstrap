@@ -1,5 +1,7 @@
 |Containers|
 |-|
+|.container|
+|.container-fluid|
 |.container-xxl|
 |.container-xl|
 |.container-lg|
